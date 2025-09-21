@@ -9,8 +9,8 @@
 - Cross-browser compatibility  
 
 # Tech Stack
-- **HTML5**  
-- **CSS3**  
+- **HTML**  
+- **CSS**  
 
 # Project Structure
 furnisphere/
