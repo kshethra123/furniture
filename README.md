@@ -20,9 +20,8 @@ furnisphere/
 ├── README.md       # Project documentation
 
 #  Contact
--  Email: [hegdekshethra7@gmail.com](mailto:hegdekshethra7@gmail.com)  
--  [LinkedIn](https://www.linkedin.com/in/your-profile)  
--  [GitHub](https://github.com/your-username)
-
+-  Email: hegdekshethra7@gmail.com
+- LinkedIn: www.linkedin.com/in/kshethra-hegde-3b3811266
+- GitHub:https://github.com/kshethra123
 
 
