@@ -5,13 +5,12 @@
 # Features
 - Mobile-first responsive design  
 - Clean and minimal user interface  
-- ⚡ Fast performance and smooth transitions  
-- 🌐 Cross-browser compatibility  
+-  Fast performance and smooth transitions  
+- Cross-browser compatibility  
 
 # Tech Stack
 - **HTML5**  
 - **CSS3**  
-- **JavaScript (Vanilla JS)**
 
 # Project Structure
 furnisphere/
